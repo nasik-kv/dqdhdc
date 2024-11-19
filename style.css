@@ -127,7 +127,7 @@ a:hover {
     text-transform: capitalize;
 }
 .w3l-main-slider .banner-view {
-    background: url(../images/front.jpg) no-repeat center;
+    background: url(front.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
