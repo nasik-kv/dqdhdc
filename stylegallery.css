@@ -126,7 +126,7 @@ a:hover {
     text-transform: capitalize;
 }
 .w3l-main-slider .banner-view {
-    background: url(../images/collage.jpg) no-repeat center;
+    background: url(collage.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
